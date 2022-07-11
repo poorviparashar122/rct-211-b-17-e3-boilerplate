@@ -1,0 +1,47 @@
+.btn{
+    color: whitesmoke;
+    margin-top: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    }
+    .red{
+    background: rgb(128, 10, 10);
+    }
+    .yellow{
+    background: rgb(207, 207, 27);
+    }
+    .orange{
+    background-color: rgb(233, 161, 36);
+    }
+    .green{
+    background-color: green;
+    
+    }
+    .white{
+        background: white;
+        color: black;
+    }
+    .sm{
+    font-size: 12px;
+    }
+    .md{
+    font-size: 18px;
+    }
+    .lg{
+    font-size: 24px;
+    }
+    .xl{
+    font-size: 30px;
+    }
+    .solid{
+    background: rgb(17, 175, 36);
+    border: none;
+    }
+    .ghost{
+    border: none;
+    background-color:lavenderblush;
+    color: black;
+    }
+    .outline{
+    border: 1px solid black;
+    }
